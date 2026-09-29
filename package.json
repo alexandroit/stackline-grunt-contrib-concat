@@ -1,7 +1,7 @@
 {
   "name": "@stackline/grunt-contrib-concat",
   "description": "Concatenate files.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Grunt Team",
     "url": "http://gruntjs.com/"
@@ -33,8 +33,12 @@
     "grunt": ">=1.4.1"
   },
   "keywords": [
-    "gruntplugin",
     "stackline",
+    "npm-package",
+    "grunt-contrib-concat",
+    "grunt-plugin",
+    "nodejs",
+    "gruntplugin",
     "maintenance-fork"
   ],
   "files": [
@@ -51,7 +55,7 @@
   "bugs": {
     "url": "https://github.com/alexandroit/stackline-grunt-contrib-concat/issues"
   },
-  "homepage": "https://github.com/alexandroit/stackline-grunt-contrib-concat#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/grunt-contrib-concat/",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
