@@ -1,0 +1,25 @@
+{
+  "repository": "alexandroit/stackline-grunt-contrib-concat",
+  "packages": [
+    {
+      "name": "@stackline/grunt-contrib-concat",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "grunt-contrib-concat",
+        "grunt-plugin",
+        "nodejs",
+        "gruntplugin",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/grunt-contrib-concat/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/grunt-contrib-concat/-/grunt-contrib-concat-1.0.0.tgz",
+      "baselineIntegrity": "sha512-5oH6+8A50DN0OZS9ie1o4VDnzjHQMvdzPE1k1jnofSjVhOQlu7zA14rbmvcWwqOK0T1N+jorXPkEWLz7w1e1nw==",
+      "expectedSha512": "1822fc4aa1cb1e32bdb6335eef83522e423261512cc50747d1b37d0aee4ab312c32f11e51fe860918c7f9215b931d06b8996a2bafbefc28657273928d537bb55",
+      "tag": "docs-stackline-grunt-contrib-concat-v1.0.1"
+    }
+  ]
+}
