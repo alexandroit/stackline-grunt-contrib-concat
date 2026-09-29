@@ -1,3 +1,19 @@
+# @stackline/grunt-contrib-concat
+
+Independent maintenance fork of `grunt-contrib-concat@2.1.0`. Original API, module format, runtime dependency ranges, and supported Node.js engines are preserved.
+
+```sh
+npm install @stackline/grunt-contrib-concat
+# Preserve existing imports with an npm alias:
+npm install grunt-contrib-concat@npm:@stackline/grunt-contrib-concat@1.0.0
+```
+
+See [UPSTREAM.md](UPSTREAM.md) for the exact source and issue review, and [CHANGELOG.md](CHANGELOG.md) for focused maintenance changes. Development and release tooling runs on Node.js 24; that does not change the library runtime requirement.
+
+Maintained by [Stackline](https://alexandro.net/). [Issues](https://github.com/alexandroit/stackline-grunt-contrib-concat/issues) · [npm](https://www.npmjs.com/package/@stackline/grunt-contrib-concat).
+
+## Upstream documentation
+
 # grunt-contrib-concat v2.1.0 [![Build Status](https://github.com/gruntjs/grunt-contrib-concat/workflows/Tests/badge.svg)](https://github.com/gruntjs/grunt-contrib-concat/actions?workflow=Tests)
 
 > Concatenate files.
